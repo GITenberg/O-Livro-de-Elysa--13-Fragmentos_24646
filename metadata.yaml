@@ -1,0 +1,26 @@
+_repo: O-Livro-de-Elysa--13-Fragmentos_24646
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemos, João de
+    birthdate: 1819
+    deathdate: 1890
+    gutenberg_agent_id: '26643'
+    url: http://www.gutenberg.org/2009/agents/26643
+description: ''
+gutenberg_issued: '2008-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24646'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love'
+- !lcc 'PQ'
+title: "O Livro de Elysa\r\nFragmentos"
+url: http://www.gutenberg.org/ebooks/24646
