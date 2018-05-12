@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26643'
     url: http://www.gutenberg.org/2009/agents/26643
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24646#O-Livro-de-Elysa--13-Fragmentos
 gutenberg_issued: '2008-02-19'
 gutenberg_type: Text
 identifiers:
